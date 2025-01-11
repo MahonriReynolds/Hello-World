@@ -12,7 +12,6 @@ def animate_printout(message: str, spinner: str, delay: float) -> None:
     time.sleep(delay)
     print()
 
-
 animate_printout('Hello World', '⣾⣷⣯⣟⡿⢿⣻⣽', 0.08)
 animate_printout('Hello World', '⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏', 0.07)
 animate_printout('Hello World', '-\\|/', 0.08)
