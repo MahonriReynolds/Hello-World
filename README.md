@@ -5,7 +5,7 @@ This is an animated hello world program.
 
 I created this as a demo for integrating vscode, python, and git w/ github. 
 
-Watch the demo here: [Software Demo Video](http://youtube.link.goes.here)
+Watch the demo here: [Software Demo Video](https://youtu.be/9kCWc8xKTuM)
 
 # Development Environment
 
